@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.paypal.android.sdk:data-collector-2.18.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-data-collector-2.18.1.aar/016dca53a96fed696c86246f602c786a/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-data-collector-2.18.1.aar/016dca53a96fed696c86246f602c786a/jars/libs/paypal-data-collector-4.0.3.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-data-collector-2.18.1.aar/016dca53a96fed696c86246f602c786a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paypal.android.sdk/data-collector/2.18.1/906bbde76669bb8d90c7ced3506ebe27b87aeced/data-collector-2.18.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

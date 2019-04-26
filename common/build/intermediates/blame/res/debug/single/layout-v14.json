@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-0.9.6.0.aar\\f35e8bdabc915ff3b49d4d95517b8905\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-0.9.6.0.aar\\f35e8bdabc915ff3b49d4d95517b8905\\res\\layout-v14\\md_stub_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-0.9.6.0.aar\\f35e8bdabc915ff3b49d4d95517b8905\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    }
+]

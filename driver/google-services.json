@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "160189651446",
+    "firebase_url": "https://tufike2-9d61d.firebaseio.com",
+    "project_id": "tufike2-9d61d",
+    "storage_bucket": "tufike2-9d61d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160189651446:android:1eb27e9d1c7db92c",
+        "android_client_info": {
+          "package_name": "com.tufike.taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160189651446-mhkspot3qlqr5eh3pqs94vnoh1th5ti9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tufike.taxi.driver",
+            "certificate_hash": "6a4f716a6429fa11e057e94d652d35b8073a363d"
+          }
+        },
+        {
+          "client_id": "160189651446-vojd8dels53iddsp3c8m103n76mn6jr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2m0qiQs1Bbp5CpK5NtTIEHc6HI2ylMYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160189651446-vojd8dels53iddsp3c8m103n76mn6jr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

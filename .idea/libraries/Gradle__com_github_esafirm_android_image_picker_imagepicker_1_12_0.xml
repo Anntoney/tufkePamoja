@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.esafirm.android-image-picker:imagepicker-1.12.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-imagepicker-1.12.0.aar/bb4d6447ed90f3a8f2296d86b5d0141c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-imagepicker-1.12.0.aar/bb4d6447ed90f3a8f2296d86b5d0141c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.esafirm.android-image-picker/imagepicker/1.12.0/4e71fc55772b241aaf9c8cddefaffce071ed1d31/imagepicker-1.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

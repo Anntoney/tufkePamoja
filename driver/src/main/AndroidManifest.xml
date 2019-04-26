@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.tufike.taxi.driver"
+    android:hardwareAccelerated="true">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.tufike.taxi.common.MyTaxiApplication"
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@drawable/logo"
+        android:usesCleartextTraffic="true"
+        android:label="@string/driver_app_name"
+        tools:replace="android:label"
+        android:supportsRtl="true"
+        tools:ignore="UnusedAttribute">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            tools:replace="android:value"
+            android:value="6fe7406338d93004f234b73f0f196f961b46dde3" />
+        <activity android:name="com.braintreepayments.api.BraintreeBrowserSwitchActivity"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="${applicationId}.braintree" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.tufike.taxi.common.activities.chargeAccount.ChargeAccountActivity" />
+        <activity android:name="com.tufike.taxi.driver.activities.splash.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.tufike.taxi.driver.activities.main.MainActivity" android:screenOrientation="portrait" android:launchMode="singleTask" android:clearTaskOnLaunch="true" android:alwaysRetainTaskState="true" />
+        <activity android:name="com.tufike.taxi.driver.activities.profile.ProfileActivity" />
+
+        <receiver android:name="com.tufike.taxi.driver.services.BootCompletedReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.tufike.taxi.driver.services.DriverService" />
+        <activity
+            android:name="com.cooltechworks.creditcarddesign.CardEditActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Default"/>
+        <activity android:name="com.tufike.taxi.driver.activities.travel.TravelActivity" android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yalantis.ucrop.UCropActivity"
+            android:theme="@style/Theme.Default"
+            android:screenOrientation="portrait" />
+        <!--TODO:Delete this when the tedPermission got updated with the fix for api level 27.-->
+        <activity android:name="com.gun0912.tedpermission.TedPermissionActivity" android:configChanges="mcc|mnc|locale|keyboard|keyboardHidden|screenLayout|fontScale|uiMode|orientation|screenSize|layoutDirection" android:screenOrientation="unspecified" android:theme="@style/Theme.Transparent.Permission" tools:replace="android:screenOrientation"/>
+        <activity
+            android:name="com.tufike.taxi.driver.activities.statistics.StatisticsActivity"/>
+        <activity android:name="com.tufike.taxi.driver.activities.about.AboutActivity"/>
+        <activity android:name="com.tufike.taxi.common.activities.login.LoginActivity"/>
+    </application>
+
+</manifest>

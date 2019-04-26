@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\menu\\ef_image_picker_menu_main.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-imagepicker-1.12.0.aar\\bb4d6447ed90f3a8f2296d86b5d0141c\\res\\menu\\ef_image_picker_menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\menu\\payment_methods.xml",
+        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\src\\main\\res\\menu\\payment_methods.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\menu\\ucrop_menu_activity.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-ucrop-2.2.1.aar\\daf0fbce17c385baedc413057edfdf5c\\res\\menu\\ucrop_menu_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\menu\\bt_card_io.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-drop-in-3.7.1.aar\\8bb1c6f40029ae576b87668b24c5cb6e\\res\\menu\\bt_card_io.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\menu\\actionbar_save.xml",
+        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\src\\main\\res\\menu\\actionbar_save.xml"
+    }
+]
