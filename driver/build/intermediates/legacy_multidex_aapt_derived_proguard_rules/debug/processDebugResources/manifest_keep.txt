@@ -1,0 +1,4 @@
+# Referenced at C:\Users\Antoney\Documents\android\finale\android\driver\build\intermediates\merged_manifests\debug\AndroidManifest.xml:57
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Antoney\Documents\android\finale\android\driver\build\intermediates\merged_manifests\debug\AndroidManifest.xml:57
+-keep class com.tufike.taxi.common.MyTaxiApplication { <init>(); }

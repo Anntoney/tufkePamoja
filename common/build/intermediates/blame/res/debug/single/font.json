@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto_light.ttf",
+        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\src\\main\\res\\font\\roboto_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto_regular.ttf",
+        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\src\\main\\res\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto_medium.ttf",
+        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\src\\main\\res\\font\\roboto_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto_black.ttf",
+        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\src\\main\\res\\font\\roboto_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto.xml",
+        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\src\\main\\res\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto_thin.ttf",
+        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\src\\main\\res\\font\\roboto_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\font\\roboto_bold.ttf",
+        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\src\\main\\res\\font\\roboto_bold.ttf"
+    }
+]

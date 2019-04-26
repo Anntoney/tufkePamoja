@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

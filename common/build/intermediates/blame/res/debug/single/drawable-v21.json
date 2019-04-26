@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0-alpha03.aar\\95580790a010518f71c48e7df15df8f5\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mtrl_popupmenu_background.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\drawable-v21\\mtrl_popupmenu_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bt_payment_method_list_item_bg.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-drop-in-3.7.1.aar\\8bb1c6f40029ae576b87668b24c5cb6e\\res\\drawable-v21\\bt_payment_method_list_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\fui_idp_button_background_facebook.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-ui-auth-3.3.1.aar\\8f0d82aca127f53cb2a5b7e5dd182256\\res\\drawable-v21\\fui_idp_button_background_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-0.9.6.0.aar\\f35e8bdabc915ff3b49d4d95517b8905\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\fui_idp_button_background_google.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-ui-auth-3.3.1.aar\\8f0d82aca127f53cb2a5b7e5dd182256\\res\\drawable-v21\\fui_idp_button_background_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\fui_idp_button_background_twitter.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-ui-auth-3.3.1.aar\\8f0d82aca127f53cb2a5b7e5dd182256\\res\\drawable-v21\\fui_idp_button_background_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-0.9.6.0.aar\\f35e8bdabc915ff3b49d4d95517b8905\\res\\drawable-v21\\md_btn_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-0.9.6.0.aar\\f35e8bdabc915ff3b49d4d95517b8905\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\fui_idp_button_background_email.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-ui-auth-3.3.1.aar\\8f0d82aca127f53cb2a5b7e5dd182256\\res\\drawable-v21\\fui_idp_button_background_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\fui_idp_button_background_phone.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-ui-auth-3.3.1.aar\\8f0d82aca127f53cb2a5b7e5dd182256\\res\\drawable-v21\\fui_idp_button_background_phone.xml"
+    }
+]

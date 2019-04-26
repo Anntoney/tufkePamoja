@@ -1,0 +1,83 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0-alpha03.aar\\95580790a010518f71c48e7df15df8f5\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "65",
+                        "endOffsets": "161"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "354",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "522"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-alerter-2.0.4.aar\\4c207eca701c6643cf74da481a553d3a\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "238"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "166",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "349"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-drop-in-3.7.1.aar\\8bb1c6f40029ae576b87668b24c5cb6e\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2,6,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,295,788",
+                        "endLines": "5,14,25",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "290,783,1388"
+                    },
+                    "to": {
+                        "startLines": "11,15,24",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "527,722,1215",
+                        "endLines": "14,23,34",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "717,1210,1815"
+                    }
+                }
+            ]
+        }
+    ]
+}
