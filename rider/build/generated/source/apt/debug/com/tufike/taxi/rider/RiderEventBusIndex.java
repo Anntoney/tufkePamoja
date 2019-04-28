@@ -17,10 +17,16 @@ public class RiderEventBusIndex implements SubscriberInfoIndex {
     static {
         SUBSCRIBER_INDEX = new HashMap<Class<?>, SubscriberInfo>();
 
-        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.travel.fragments.TabStatisticsFragment.class,
-                true, new SubscriberMethodInfo[] {
-            new SubscriberMethodInfo("onTravelInfoReceived",
-                    com.tufike.taxi.rider.events.GetTravelInfoResultEvent.class, ThreadMode.MAIN),
+        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.looking.LookingActivity.class, true,
+                new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onDriverAccepted", com.tufike.taxi.rider.events.DriverAcceptedEvent.class,
+                    ThreadMode.MAIN),
+        }));
+
+        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.addresses.AddressesActivity.class, true,
+                new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onCRUDResultReceived", com.tufike.taxi.rider.events.CRUDAddressResultEvent.class,
+                    ThreadMode.MAIN),
         }));
 
         putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.ui.RiderBaseActivity.class, true,
@@ -31,14 +37,6 @@ public class RiderEventBusIndex implements SubscriberInfoIndex {
                     ThreadMode.MAIN),
         }));
 
-        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.profile.ProfileActivity.class, true,
-                new SubscriberMethodInfo[] {
-            new SubscriberMethodInfo("onProfileInfoChanged",
-                    com.tufike.taxi.common.events.EditProfileInfoResultEvent.class, ThreadMode.MAIN),
-            new SubscriberMethodInfo("onProfileImageChanged",
-                    com.tufike.taxi.common.events.ChangeProfileImageResultEvent.class, ThreadMode.MAIN),
-        }));
-
         putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.splash.SplashActivity.class, true,
                 new SubscriberMethodInfo[] {
             new SubscriberMethodInfo("onLoginResultEvent", com.tufike.taxi.rider.events.LoginResultEvent.class,
@@ -47,6 +45,16 @@ public class RiderEventBusIndex implements SubscriberInfoIndex {
                     ThreadMode.MAIN),
             new SubscriberMethodInfo("onServiceStarted",
                     com.tufike.taxi.common.events.BackgroundServiceStartedEvent.class),
+        }));
+
+        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.coupon.CouponActivity.class, true,
+                new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onCouponsResultEvent", com.tufike.taxi.rider.events.GetCouponsResultEvent.class,
+                    ThreadMode.MAIN),
+            new SubscriberMethodInfo("onApplyCouponResultEvent",
+                    com.tufike.taxi.rider.events.ApplyCouponResultEvent.class, ThreadMode.MAIN),
+            new SubscriberMethodInfo("onAddCouponResultEvent", com.tufike.taxi.rider.events.AddCouponResultEvent.class,
+                    ThreadMode.MAIN),
         }));
 
         putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.travel.TravelActivity.class, true,
@@ -61,24 +69,6 @@ public class RiderEventBusIndex implements SubscriberInfoIndex {
                     ThreadMode.MAIN),
             new SubscriberMethodInfo("onCallRequested",
                     com.tufike.taxi.common.events.ServiceCallRequestResultEvent.class, ThreadMode.MAIN),
-        }));
-
-        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.main.MainActivity.class, true,
-                new SubscriberMethodInfo[] {
-            new SubscriberMethodInfo("onAddressesReceived", com.tufike.taxi.rider.events.CRUDAddressResultEvent.class,
-                    ThreadMode.MAIN),
-            new SubscriberMethodInfo("onServiceRequestResult",
-                    com.tufike.taxi.rider.events.ServiceRequestResultEvent.class, ThreadMode.MAIN),
-            new SubscriberMethodInfo("onCalculateFareReceived",
-                    com.tufike.taxi.rider.events.CalculateFareResultEvent.class, ThreadMode.MAIN),
-            new SubscriberMethodInfo("onDriversLocationResult",
-                    com.tufike.taxi.rider.events.GetDriversLocationResultEvent.class, ThreadMode.MAIN),
-            new SubscriberMethodInfo("onRequestTaxiError", com.tufike.taxi.rider.events.ServiceRequestErrorEvent.class,
-                    ThreadMode.MAIN),
-            new SubscriberMethodInfo("onProfileChanged", com.tufike.taxi.common.events.ProfileInfoChangedEvent.class,
-                    ThreadMode.MAIN, 0, true),
-            new SubscriberMethodInfo("OnGetStatusResultReceived",
-                    com.tufike.taxi.common.events.GetStatusResultEvent.class, ThreadMode.MAIN),
         }));
 
         putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.services.RiderService.class, true,
@@ -113,22 +103,30 @@ public class RiderEventBusIndex implements SubscriberInfoIndex {
             new SubscriberMethodInfo("notificationPlayerId", com.tufike.taxi.common.events.NotificationPlayerId.class),
         }));
 
-        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.main.dialogs.DriverAcceptedDialog.class,
-                true, new SubscriberMethodInfo[] {
-            new SubscriberMethodInfo("onServiceRequestResult",
-                    com.tufike.taxi.rider.events.ServiceRequestResultEvent.class, ThreadMode.MAIN),
-            new SubscriberMethodInfo("onDriverAccepted", com.tufike.taxi.rider.events.DriverAcceptedEvent.class,
-                    ThreadMode.MAIN),
+        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.profile.ProfileActivity.class, true,
+                new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onProfileInfoChanged",
+                    com.tufike.taxi.common.events.EditProfileInfoResultEvent.class, ThreadMode.MAIN),
+            new SubscriberMethodInfo("onProfileImageChanged",
+                    com.tufike.taxi.common.events.ChangeProfileImageResultEvent.class, ThreadMode.MAIN),
         }));
 
-        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.coupon.CouponActivity.class, true,
+        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.main.MainActivity.class, true,
                 new SubscriberMethodInfo[] {
-            new SubscriberMethodInfo("onCouponsResultEvent", com.tufike.taxi.rider.events.GetCouponsResultEvent.class,
+            new SubscriberMethodInfo("onAddressesReceived", com.tufike.taxi.rider.events.CRUDAddressResultEvent.class,
                     ThreadMode.MAIN),
-            new SubscriberMethodInfo("onApplyCouponResultEvent",
-                    com.tufike.taxi.rider.events.ApplyCouponResultEvent.class, ThreadMode.MAIN),
-            new SubscriberMethodInfo("onAddCouponResultEvent", com.tufike.taxi.rider.events.AddCouponResultEvent.class,
+            new SubscriberMethodInfo("onServiceRequestResult",
+                    com.tufike.taxi.rider.events.ServiceRequestResultEvent.class, ThreadMode.MAIN),
+            new SubscriberMethodInfo("onCalculateFareReceived",
+                    com.tufike.taxi.rider.events.CalculateFareResultEvent.class, ThreadMode.MAIN),
+            new SubscriberMethodInfo("onDriversLocationResult",
+                    com.tufike.taxi.rider.events.GetDriversLocationResultEvent.class, ThreadMode.MAIN),
+            new SubscriberMethodInfo("onRequestTaxiError", com.tufike.taxi.rider.events.ServiceRequestErrorEvent.class,
                     ThreadMode.MAIN),
+            new SubscriberMethodInfo("onProfileChanged", com.tufike.taxi.common.events.ProfileInfoChangedEvent.class,
+                    ThreadMode.MAIN, 0, true),
+            new SubscriberMethodInfo("OnGetStatusResultReceived",
+                    com.tufike.taxi.common.events.GetStatusResultEvent.class, ThreadMode.MAIN),
         }));
 
         putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.promotions.PromotionsActivity.class, true,
@@ -137,14 +135,16 @@ public class RiderEventBusIndex implements SubscriberInfoIndex {
                     com.tufike.taxi.rider.events.GetPromotionsResultEvent.class, ThreadMode.MAIN),
         }));
 
-        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.addresses.AddressesActivity.class, true,
-                new SubscriberMethodInfo[] {
-            new SubscriberMethodInfo("onCRUDResultReceived", com.tufike.taxi.rider.events.CRUDAddressResultEvent.class,
-                    ThreadMode.MAIN),
+        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.travel.fragments.TabStatisticsFragment.class,
+                true, new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onTravelInfoReceived",
+                    com.tufike.taxi.rider.events.GetTravelInfoResultEvent.class, ThreadMode.MAIN),
         }));
 
-        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.looking.LookingActivity.class, true,
-                new SubscriberMethodInfo[] {
+        putIndex(new SimpleSubscriberInfo(com.tufike.taxi.rider.activities.main.dialogs.DriverAcceptedDialog.class,
+                true, new SubscriberMethodInfo[] {
+            new SubscriberMethodInfo("onServiceRequestResult",
+                    com.tufike.taxi.rider.events.ServiceRequestResultEvent.class, ThreadMode.MAIN),
             new SubscriberMethodInfo("onDriverAccepted", com.tufike.taxi.rider.events.DriverAcceptedEvent.class,
                     ThreadMode.MAIN),
         }));
