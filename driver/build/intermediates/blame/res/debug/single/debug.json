@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\raw_bsd3_full.txt.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-licensesdialog-1.8.3.aar\\4dc741caec82fafeffe808de3376510a\\res\\raw\\bsd3_full.txt"
-    },
-    {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\raw_bsd3_full.txt.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-licensesdialog-1.8.3.aar\\4dc741caec82fafeffe808de3376510a\\res\\raw\\bsd3_full.txt"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\color_mtrl_card_view_ripple.xml.flat",
@@ -48,12 +48,12 @@
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_os_notification_fallback_white_24dp.png.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-OneSignal-3.10.2.aar\\387719fc9761eaf0b45bbf8e666de88e\\res\\drawable-hdpi-v4\\ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\layout_fui_phone_layout.xml.flat",
@@ -84,12 +84,12 @@
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\drawable-v23\\abc_control_background_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_bt_ic_vaulted_venmo.png.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-drop-in-3.7.1.aar\\8bb1c6f40029ae576b87668b24c5cb6e\\res\\drawable-hdpi-v4\\bt_ic_vaulted_venmo.png"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_bt_ic_cardholder_name_dark.png.flat",
@@ -116,32 +116,32 @@
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-slideview-1.1.0.aar\\064cade365f87ca835b10b1423f54837\\res\\drawable\\sv_view_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_bt_ic_cardholder_name.png.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-card-form-3.5.0.aar\\e14ace4aa42ac8da954a3d3ec797fb95\\res\\drawable-mdpi-v4\\bt_ic_cardholder_name.png"
-    },
-    {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\layout-v14_md_stub_progress.xml.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-0.9.6.0.aar\\f35e8bdabc915ff3b49d4d95517b8905\\res\\layout-v14\\md_stub_progress.xml"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_hide_password.xml.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\drawable-v21\\avd_hide_password.xml"
-    },
-    {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_chip_yellow_inner.xml.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-CreditCardView-v1.0.4.aar\\eb2076155de9c38c4080b3cf0d9a9258\\res\\drawable\\chip_yellow_inner.xml"
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_bt_ic_cardholder_name.png.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-card-form-3.5.0.aar\\e14ace4aa42ac8da954a3d3ec797fb95\\res\\drawable-mdpi-v4\\bt_ic_cardholder_name.png"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_os_notification_fallback_white_24dp.png.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-OneSignal-3.10.2.aar\\387719fc9761eaf0b45bbf8e666de88e\\res\\drawable-mdpi-v4\\ic_os_notification_fallback_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\color-v23_mtrl_dark_on_primary_emphasis_high_type.xml.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\color-v23\\mtrl_dark_on_primary_emphasis_high_type.xml"
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_chip_yellow_inner.xml.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-CreditCardView-v1.0.4.aar\\eb2076155de9c38c4080b3cf0d9a9258\\res\\drawable\\chip_yellow_inner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_hide_password.xml.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_bt_ic_postal_code_dark.png.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-card-form-3.5.0.aar\\e14ace4aa42ac8da954a3d3ec797fb95\\res\\drawable-xhdpi-v4\\bt_ic_postal_code_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\color-v23_mtrl_dark_on_primary_emphasis_high_type.xml.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\color-v23\\mtrl_dark_on_primary_emphasis_high_type.xml"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -228,16 +228,16 @@
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0-alpha03.aar\\95580790a010518f71c48e7df15df8f5\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ucrop_ic_next.png.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-ucrop-2.2.1.aar\\daf0fbce17c385baedc413057edfdf5c\\res\\drawable-xxhdpi-v4\\ucrop_ic_next.png"
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-android-maps-utils-0.5.aar\\ae767459dbdf7b824cb1779ce29bb86c\\res\\drawable-xxhdpi-v4\\amu_bubble_shadow.9.png"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_bt_ic_card_dark.png.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-card-form-3.5.0.aar\\e14ace4aa42ac8da954a3d3ec797fb95\\res\\drawable-xxxhdpi-v4\\bt_ic_card_dark.png"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_amu_bubble_shadow.9.png.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-android-maps-utils-0.5.aar\\ae767459dbdf7b824cb1779ce29bb86c\\res\\drawable-xxhdpi-v4\\amu_bubble_shadow.9.png"
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ucrop_ic_next.png.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-ucrop-2.2.1.aar\\daf0fbce17c385baedc413057edfdf5c\\res\\drawable-xxhdpi-v4\\ucrop_ic_next.png"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
@@ -324,28 +324,28 @@
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-card-form-3.5.0.aar\\e14ace4aa42ac8da954a3d3ec797fb95\\res\\drawable-mdpi-v4\\bt_ic_postal_code.png"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ortrait.png.flat",
-        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\src\\main\\res\\drawable-hdpi\\ortrait.png"
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_bt_ic_vaulted_venmo.png.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-drop-in-3.7.1.aar\\8bb1c6f40029ae576b87668b24c5cb6e\\res\\drawable-mdpi-v4\\bt_ic_vaulted_venmo.png"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ortrait.png.flat",
+        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\src\\main\\res\\drawable-hdpi\\ortrait.png"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\anim_ucrop_loader_circle_path.xml.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-ucrop-2.2.1.aar\\daf0fbce17c385baedc413057edfdf5c\\res\\anim\\ucrop_loader_circle_path.xml"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_bt_ic_mobile_number_dark.png.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-card-form-3.5.0.aar\\e14ace4aa42ac8da954a3d3ec797fb95\\res\\drawable-xxhdpi-v4\\bt_ic_mobile_number_dark.png"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\anim_ucrop_loader_circle_path.xml.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-ucrop-2.2.1.aar\\daf0fbce17c385baedc413057edfdf5c\\res\\anim\\ucrop_loader_circle_path.xml"
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\raw_ccand_30_summary.txt.flat",
@@ -376,28 +376,28 @@
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-ucrop-2.2.1.aar\\daf0fbce17c385baedc413057edfdf5c\\res\\drawable\\ucrop_shadow_upside.xml"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ucrop_ic_crop.png.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-ucrop-2.2.1.aar\\daf0fbce17c385baedc413057edfdf5c\\res\\drawable-mdpi-v4\\ucrop_ic_crop.png"
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17_md_listitem_multichoice.xml.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-0.9.6.0.aar\\f35e8bdabc915ff3b49d4d95517b8905\\res\\layout-ldrtl-v17\\md_listitem_multichoice.xml"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ef_ic_done_white.png.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-imagepicker-1.12.0.aar\\bb4d6447ed90f3a8f2296d86b5d0141c\\res\\drawable-mdpi-v4\\ef_ic_done_white.png"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17_md_listitem_multichoice.xml.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-0.9.6.0.aar\\f35e8bdabc915ff3b49d4d95517b8905\\res\\layout-ldrtl-v17\\md_listitem_multichoice.xml"
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ucrop_ic_crop.png.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-ucrop-2.2.1.aar\\daf0fbce17c385baedc413057edfdf5c\\res\\drawable-mdpi-v4\\ucrop_ic_crop.png"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_met_ic_clear.png.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-library-2.0.3.aar\\4db48cca5ec032dc7e5214291ef0fc05\\res\\drawable-xxhdpi-v4\\met_ic_clear.png"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\anim_decelerate_cubic.xml.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-0.9.6.0.aar\\f35e8bdabc915ff3b49d4d95517b8905\\res\\anim\\decelerate_cubic.xml"
-    },
-    {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\menu_ef_image_picker_menu_main.xml.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-imagepicker-1.12.0.aar\\bb4d6447ed90f3a8f2296d86b5d0141c\\res\\menu\\ef_image_picker_menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\anim_decelerate_cubic.xml.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-0.9.6.0.aar\\f35e8bdabc915ff3b49d4d95517b8905\\res\\anim\\decelerate_cubic.xml"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
@@ -440,12 +440,12 @@
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\layout\\design_navigation_item_subheader.xml"
-    },
-    {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_marker_taxi.png.flat",
         "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\marker_taxi.png"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_fui_ic_phone_white_24dp.xml.flat",
@@ -460,12 +460,12 @@
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0-alpha03.aar\\95580790a010518f71c48e7df15df8f5\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\layout_bt_section_divider.xml.flat",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-drop-in-3.7.1.aar\\8bb1c6f40029ae576b87668b24c5cb6e\\res\\layout\\bt_section_divider.xml"
-    },
-    {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\raw_mpl_11_full.txt.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-licensesdialog-1.8.3.aar\\4dc741caec82fafeffe808de3376510a\\res\\raw\\mpl_11_full.txt"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\layout_bt_section_divider.xml.flat",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-drop-in-3.7.1.aar\\8bb1c6f40029ae576b87668b24c5cb6e\\res\\layout\\bt_section_divider.xml"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_bt_ic_cardholder_name_dark.png.flat",
@@ -484,12 +484,12 @@
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-CreditCardView-v1.0.4.aar\\eb2076155de9c38c4080b3cf0d9a9258\\res\\drawable\\master_back.xml"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_empty_state.png.flat",
-        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\empty_state.png"
-    },
-    {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_empty_state.png.flat",
+        "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\packaged_res\\debug\\drawable\\empty_state.png"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\driver\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",

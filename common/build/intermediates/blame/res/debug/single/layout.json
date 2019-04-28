@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\src\\main\\res\\layout\\activity_travels.xml"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout\\fui_welcome_back_idp_prompt_layout.xml",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-ui-auth-3.3.1.aar\\8f0d82aca127f53cb2a5b7e5dd182256\\res\\layout\\fui_welcome_back_idp_prompt_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout\\alerter_alert_view.xml",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-alerter-2.0.4.aar\\4c207eca701c6643cf74da481a553d3a\\res\\layout\\alerter_alert_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout\\fui_welcome_back_idp_prompt_layout.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-ui-auth-3.3.1.aar\\8f0d82aca127f53cb2a5b7e5dd182256\\res\\layout\\fui_welcome_back_idp_prompt_layout.xml"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress.xml",
@@ -24,20 +24,20 @@
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\4669c608062793896cce10a0c1a091d1\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout\\fui_idp_button_google.xml",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-ui-auth-3.3.1.aar\\8f0d82aca127f53cb2a5b7e5dd182256\\res\\layout\\fui_idp_button_google.xml"
-    },
-    {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout\\about_page_separator.xml",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-android-about-page-1.2.1.aar\\15db1584a0e407cdb0f94975f0f5b17f\\res\\layout\\about_page_separator.xml"
     },
     {
-        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout\\fui_auth_method_picker_layout.xml",
-        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-ui-auth-3.3.1.aar\\8f0d82aca127f53cb2a5b7e5dd182256\\res\\layout\\fui_auth_method_picker_layout.xml"
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout\\fui_idp_button_google.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-ui-auth-3.3.1.aar\\8f0d82aca127f53cb2a5b7e5dd182256\\res\\layout\\fui_idp_button_google.xml"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\80d24400127f16578ef374727d96f679\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout\\fui_auth_method_picker_layout.xml",
+        "source": "C:\\Users\\Antoney\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-ui-auth-3.3.1.aar\\8f0d82aca127f53cb2a5b7e5dd182256\\res\\layout\\fui_auth_method_picker_layout.xml"
     },
     {
         "merged": "C:\\Users\\Antoney\\Documents\\android\\finale\\android\\common\\build\\intermediates\\res\\merged\\debug\\layout\\bt_animated_button_view.xml",

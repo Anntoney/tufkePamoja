@@ -15,7 +15,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "584848785200-k7nvftn2stlb2bcu3sgkfqg9rro1gm6g.apps.googleusercontent.com",
+          "client_id": "584848785200-g4ah22lqu7jfe1qr1a1k2hfk18no74oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tufike.taxi.rider",
+            "certificate_hash": "7cb03b174b051e9d42969ce22549d094a6403ddc"
+          }
+        },
+        {
+          "client_id": "584848785200-29atdhlghslmdo4hdu9pdtf4tp1bfi41.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.tufike.taxi.rider",
